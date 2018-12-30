@@ -1,0 +1,21 @@
+# MBPMid2010_GPUFix:
+// Disable SIP:
+reboot > press and hold cmd+r
+$ csrutil disable
+
+# Deep Freeze:
+// Disable CoreStorage:
+reboot > press and hold cmd+r
+$ diskutil cs list
+$ diskutil cs revert disk2
+https://faronics.kayako.com/Knowledgebase/Article/View/398/36/problems-installing-deep-freeze-mac-on-core-storage-volumes
+
+# Keyboard:
+// Enable repeating keys:
+$ defaults write -g ApplePressAndHoldEnabled -bool false
+
+// Disable Gatekeeper:
+$ sudo spctl --master-disable
+Systemsteuerung > Sicherheit > Keine Einschränkung [x]
+
+-- END

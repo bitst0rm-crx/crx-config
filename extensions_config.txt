@@ -1,0 +1,627 @@
+30.12.2018
+
+Chrome
+[-] Vor Beenden warnen(cmd+Q)
+
+Personen
+Passwörter:
+[-] Speichern von Passwörtern anbieten
+[-] Automatisch anmelden
+Zahlungsmethoden:
+[-] Zahlungsmethode speichern und ausfüllen
+AutoFill-Einstellungen:
+[-] Adressen speichern und ausfüllen
+
+Datenschutz und Sicherheit
+[x] Anmeldung in Chrome zulassen
+[x] Vervollständigung von Suchanfragen und URLs bei der Eingabe in die Adressleiste verwenden
+[-] Vorhersagefunktion zum schnelleren Laden von Seiten verwenden
+[x] Navigationsfehler mithilfe eines Webdienstes beheben
+[x] Safe Browsing
+[-] Bei der Optimierung von Safe Browsing helfen
+[-] Nutzungsstatistiken und Absturzberichte automatisch an Google senden
+[-] Rechtschreibfehler mithilfe eines Webdienstes korrigieren
+[x] Bei Browserzugriffen eine "Do Not Track"-Anforderung mitsenden
+[x] Websites die Abfrage gespeicherter Zahlungsmethoden erlauben
+
+Sprachen
+[-] Übersetzung von fremdsprachigen Seiten anbieten
+
+Downloads
+[-] Vor dem Download von Dateien nach dem Speicherort fragen
+
+System
+[-] Hardwarebeschleunigung verwenden, falls verfügbar
+
+/******************************************************************************/
+
+Chrome extension source viewer
+https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
+[-] Add a "View linked extension source" context menu item to Chrome extension and Firefox addon links.
+
+Code-Viewer
+https://github.com/bitst0rm-chrome-extensions/Code-Viewer
+[x] Zugriff auf Datei-URLs zulassen
+
+eCleaner (Forget Button)
+https://chrome.google.com/webstore/detail/ecleaner-forget-button/ejhlpopncnfaaeicmbdnddebccnkfenn
+[x] From day one (dangerous zone!)
+[x] Cookies
+[x] Forms
+[-] Certificates
+[x] Passwords (dangerous zone!)
+[x] Protected websites (be careful!)
+[-] Extensions zone (dangerous zone!)
+
+Enhancer for YouTube
+https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
+[x] Automatisch die Werbung bei Videos entfernen.
+[x] Anmerkungen automatisch entfernen.
+[x] Videos automatisch in der bevorzugten Qualität abspielen lassen.
+Bevorzugte Qualität: 720p HD
+
+EXIF Viewer
+https://chrome.google.com/webstore/detail/exif-viewer/nafpfdcmppffipmhcpkbplhkoiekndck
+{ExifViewer.CameraModel} | {FocalLength}mm ● f/{FNumber} ● {ExposureTime}s ● ISO{ISOSpeedRatings} | {DateTimeOriginal} | {PixelXDimension} x {PixelYDimension} px | {Software}
+
+Gismeteo
+https://chrome.google.com/webstore/detail/gismeteo/bfegaehidkkcfaikpaijcdahnpikhobf
+Language: English
+Wind: km/h
+
+Google Dictionary (by Google)
+https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja
+My language: German
+
+Google Docs Offline
+https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+
+Imagus
+https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab
+[x] Show image/video dimensions
+
+JavaScript and CSS Code Beautifier
+https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald
+[x] Exclude JSON files
+[x] End script and style with newline?
+[x] Zugriff auf Datei-URLs zulassen
+
+JSON Formatter
+https://chrome.google.com/webstore/detail/json-formatter/mhimpmpmffogbmmkmajibklelopddmjf
+[x] Zugriff auf Datei-URLs zulassen
+
+Magnifying Glass
+https://chrome.google.com/webstore/detail/magnifying-glass/elhdjgjjmodgmhkokebhegekjooiaofm
+Magnifier Strength: 4
+
+Markdown Preview Plus
+https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl
+[x] Enable Table Of Content
+[x] Zugriff auf Datei-URLs zulassen
+
+Nimbus Screenshot & Screen Video Recorder
+https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj
+[-] Show in context menu
+
+Office Editor
+https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj
+
+PixelBlock
+https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem
+
+Scroll To Top Button
+https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj
+Button mode: Flip between top & bottom
+Scroll up speed: Faster
+Scroll down speed: Faster
+Button size: 35x35 pixels
+Button location: Bottom right
+Context (right-click) menu: Off
+
+Search by Image (by Google)
+https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm
+
+ShowPassword
+https://chrome.google.com/webstore/detail/showpassword/bbiclfnbhommljbjcoelobnnnibemabl
+When to show password: On Focus
+
+Skip Redirect
+https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon
+:(\/\/\w+\.|\/\/)(twitter|facebook|ebay|paypal|google|tineye|bing|yandex|karmadecay|zxing|imgops|pixlr|picmonkey)\.
+[-] Zeige Benachrichtigungsdialog
+
+Storage Area Explorer
+https://chrome.google.com/webstore/detail/storage-area-explorer/ocfjjjjhkpapocigimmppepjgfdecjkb
+
+Tampermonkey
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+[-] Anonyme Statistiken
+
+TinEye Reverse Image Search
+https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl
+Sort Order: Biggest Image
+Open Searches in: Background Tab
+
+uBlock Origin
+https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+[x] Meine Filter
+[x] uBlock-eigene Filterlisten:
+[x] uBlock filters
+[x] uBlock filters – Badware risks
+[x] uBlock filters – Privacy
+[x] uBlock filters – Resource abuse
+[x] uBlock filters – Unbreak
+Werbung:
+[x] Adblock Warning Removal List
+[x] EasyList
+Privatsphäre:
+[x] Adguard Spyware Filters
+[x] EasyPrivacy
+[x] Fanboy’s Enhanced Tracking List
+Domains mit Schadsoftware:
+[x] Malware Domain List
+[x] Malware domains
+Verschiedene Zwecke:
+[x] hpHosts’ Ad and tracking servers
+[x] Peter Lowe’s Ad and tracking server list
+Regionen, Sprachen:
+[x] DEU: EasyList Germany
+[x] VIE: ABPVN List
+
+Meine Regeln:
+no-large-media: behind-the-scene false
+no-scripting: behind-the-scene false
+no-strict-blocking: urlcash.net true
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+
+uBlock Origin Extra
+https://chrome.google.com/webstore/detail/ublock-origin-extra/pgdnlhfefecpicbbihgmbmffkjpaplco
+
+URL Incrementer
+https://chrome.google.com/webstore/detail/url-incrementer/hjgllnccfndbjbedlecgdedlikohgbko
+
+URL Switcher
+https://chrome.google.com/webstore/detail/url-switcher/jhokdbpcimdpkmgbdnmgcbklohaeleel
+
+Video DownloadHelper
+https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk
+Aussehen:
+Symbol-Kennzeichen: Medien im aktiven Tab
+[-] Kontextmenü
+Verhalten:
+Standardordner zum Herunterladen: Downloads
+
+Video Styler (brightness and more)
+https://chrome.google.com/webstore/detail/video-styler-brightness-a/bfmgdnjlifbmedglimhnbhgkefanaiep
+[x] Off
+
+View Image - "Bild ansehen" für Google Bildersuche
+https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk
+[x] Hinweis "die Bilder sind eventuell urheberrechtlich geschützt" ausblenden
+
+View Image Info (properties)
+https://chrome.google.com/webstore/detail/view-image-info-propertie/jldjjifbpipdmligefcogandjojpdagn
+
+Viewhance
+https://chrome.google.com/webstore/detail/viewhance/impppjchnpfgknmbaaghfeopcgfoilac
+[x] Zugriff auf Datei-URLs zulassen
+
+Volume Controller - Lautstärkeregler
+https://chrome.google.com/webstore/detail/volume-controller/cnlmgnlnpjaniibglhnppikopdcclfjp
+
+When? - Timestamps for Google™ Search
+https://chrome.google.com/webstore/detail/when-timestamps-for-googl/dgafcidlgmbcehokgdeghmfnbpbfhihh
+
+/******************************************************************************/
+
+Tampermonkey scripts:
+
+HandyImage
+https://github.com/Owyn/HandyImage/raw/master/HandyImage.user.js
+[-] Open images directly with browser
+[ ] Background color (empty = default)
+[-] Larger than window both vertically and horizontally
+[-] Larger than window either vertically or horizontally
+[-] Smaller than window
+[ ] Custom JS Action
+
+AdsBypasser [Full]
+https://adsbypasser.github.io
+[x] Align Center
+[x] Change Background
+[x] Redirect Image
+[-] Scale Image
+Log Level: 0 (quiet)
+
+Google Hit Hider by Domain (Search Filter / Block Sites)
+https://greasyfork.org/de/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites
+
+1337x.bypass.space
+4555000.com
+62.210.206.124
+996172.com
+about.com
+ajatorrents.space
+aletorrenty.pl
+aletorrenty.xyz
+angrytorrent.net
+anytorr.com
+asexon.com
+autorrents.com
+aviatorrent.com
+baixar-filme.com
+baixartorrent.net
+ballative.info
+banel.ru
+beasttorrents.net
+beyond-luxury.ru
+bgtorrentz.net
+bigresource.com
+biltorrent.com
+bittorrent.so
+bittorrentz.live
+bluetorrent.org
+bollycine.net
+boottorrent.com
+btarena.net
+btarena.org
+btbaocai.com
+btbay.org
+btcd.xyz
+btdigg.org
+bthand.com
+btkiss.net
+btku.org
+btku5.com
+btstor.cc
+btstorr.cc
+btzhizhu.com
+celebinews.org
+cilisoso.net
+dadotorrent.ru
+dadotorrents.com
+dailybts.com
+ddltorrent.com
+dietrying.eu
+digbt.org
+digitalmonsters.net
+diigo.com
+direct-torrent.com
+downloadc.xyz
+downloadss.xyz
+downloadx.xyz
+dunewoodyachtclub.com
+dusttorrent.com
+eatorrent.com
+ecwroclaw2016.pl
+edutorrent.com
+ehow.com
+ehow.de
+emtorrent.com
+etmirror.com
+eval.hu
+evershark.com
+extra-torrent.space
+extrator.info
+extratorrent.asia
+extratorrent.bz
+extratorrent.cc
+extratorrent.click
+extratorrent.ee
+extratorrent.im
+extratorrent.news
+extratorrent.ru
+extratorrent.to
+extratorrent.tv
+extratorrent.unblockme.al
+extratorrent.video
+extratorrente.info
+extratorrente.ru
+extratorrentonline.com
+extratorrents.me
+extratorrents.top
+extratorrentunblocked.net
+extratorrentz.xyz
+extratrrnt.com
+extratrrnt.net
+extratrrnt.org
+eztv.ag
+eztv.ch
+eztv.cz
+eztv.it
+fastbot.me
+fasttorrents.club
+fatorrents.com
+filesloop.com
+filessoo.com
+filessoo.net
+fltorrent.com
+goodtorrent.net
+hanmipiano.com
+hunttorrent.net
+iltorrent.com
+indeed.com
+informer.com
+islandchurchgalveston.com
+isohunt-torrents.net
+isohunt.to
+itorrent.io
+ittorrents.com
+j-torrent.com
+kat-kickasstorrent.com
+kat-kickasstorrents.com
+kat.cr
+kat.news
+kat.wf
+katcr.gq
+katproxy.al
+katstorrent.org
+kattorrents.me
+kickass-torrent.club
+kickass-torrents.red
+kickass-torrentz.org
+kickass.ac
+kickass.ag
+kickass.am
+kickassfile.gq
+kickasslinktorrents.com
+kickassproxy.cc
+kickasss.to
+kickasstoptorrents.gq
+kickasstor.co
+kickasstorrent.cr
+kickasstorrent.hu
+kickasstorrentcr.com
+kickasstorrents.ee
+kickasstorrents.eu
+kickasstorrents.name
+kickasstorrents.reviews
+kickasstorrents.to
+kickasstorrents.video
+kickasstorrents.website
+kickasstorrentsdownload.link
+kickasstorrentsim.com
+kickasstorrentunblock.link
+kickasstorrentz.co
+kit.cr
+latorrent.com
+legalservices-pro.ru
+lime-torrents.co
+limetor.co
+limetor.ibiotech.biz
+limetorrents.cc
+limetorrents.in
+limetorrents.org
+linktorrents.com
+m.torrentz.li
+marktorrent.com
+massivetorrent.net
+mce73.com
+me.tz.ai
+mediashareapp.com
+megatorrent.co
+megatorrent.eu
+mejortorrent.com
+metatorrents.net
+movie-torrentz.me
+movie7share.net
+mp3-torrents.net
+mytorrenttz.xyz
+nachostime.net
+needtorrent.com
+oldlegend.net
+orangetorrent.net
+otorrent.biz
+otorrent.co
+otorrent.info
+otorrent.me
+otorrent.org
+otorrent1.com
+otorrents.com
+p33r.com
+picktorrent.com
+pirateindex.org
+pirateproxy.tf
+playnewgammes.com
+polskie-torrenty.com
+powertorrents.net
+predb.me
+proxiesweb.com
+proxybox.me
+proxycity.net
+proxyindex.co
+proxyindex.eu
+proxyindex.net
+qlilp.ru
+queentorrent.net
+raidrush.org
+rapidsharemix.com
+rarbg.com
+rarbg.to
+rarbg.unblocked.tv
+rarbgmirror.com
+rarbgproxy.com
+rarbgunblock.com
+ratorrent.com
+rebeltorrent.net
+rotorrents.com
+sankyou.ru
+satorrents.com
+scantorrent.com
+schnitzelbay.nl
+seaturu.com
+series-torrent.org
+seriesintorrent.com
+servetorrent.com
+seventorrents.blue
+seventorrents.one
+seventorrents.xyz
+shadowlightgames.com
+shareworld.me
+sierratorrents.com
+smart-torrents.com
+soft-warez.info
+sounima.net
+speed-torrent.net
+speedtorrent.to
+startorrents.com
+stop-warez.info
+storrente.com
+sttorrent.com
+sukebei.nyaa.eu
+sukebei.nyaa.se
+summotorrent.com
+sumotorrent.sx
+sutorrent.com
+systemtorrent.com
+thepiratebay.bid
+thepiratebay.gd
+thepiratebay.se
+thepiratebay.to
+thepiratebay.vg
+thepiratesbay.pw
+thetorrentbay.net
+titorrent.com
+tobtbad.org
+tobtcam.org
+tobtebb.org
+tokyotosho.info
+torbt.com
+torbtago.org
+torbtbeep.org
+torbtcite.org
+torbtdose.org
+torbtdust.org
+torbtsaxe.org
+torhub.net
+torhunter.me
+torlock.com
+torrbtcat.org
+torrbtgetbag.org
+torrbtgetcam.org
+torrbtgetdim.org
+torrbtgeterr.org
+torrent-drive.net
+torrent-extra.tk
+torrent-finder.info
+torrent-harvester.com
+torrent-hunter.net
+torrent4.net
+torrentbit.net
+torrentbull.com
+torrentbutler.eu
+torrentcd.org
+torrentdownload.co
+torrentdownloads.me
+torrentdragon.net
+torrentextras.com
+torrentfj.info
+torrentfreak.com
+torrentfreedownload.ga
+torrentfunk.com
+torrenthound-cc.com
+torrenthound.at
+torrenthound.com
+torrenthound.ru
+torrenthound.so
+torrentit.eu
+torrentkereso.hu
+torrentking.eu
+torrentkitty.la
+torrentlinks.net
+torrentproject.com
+torrentproject.se
+torrentreactor.com
+torrentroom.com
+torrents-pro.com
+torrents.re
+torrents4all.net
+torrentsbest.net
+torrentscenes.com
+torrentshare.net
+torrentsum.com
+torrenty.org
+torrenty.pl
+torrentz-proxy.com
+torrentz.cm
+torrentz.eu
+torrentz.filespook.com
+torrentz.me
+torrentz.so
+torrentz.sx
+torrentz.unblocked.bid
+torrentz.wf
+torrentzcd.org
+torrentzcd.pw
+torrgetacre.org
+torrgetarms.org
+torrgetbad.org
+torrgetball.org
+torrgetbpi.org
+torrgetbud.org
+torrgetcad.org
+torrgetcall.org
+torrgetcase.org
+torrgetclaw.org
+torrgetoff.org
+torrgetweb.org
+torrgetwhy.org
+torrsbtact.org
+torrsbtbelt.org
+torrsbtdue.org
+torrsbteel.org
+torstor.com
+tosbtbig.org
+tosbtfor.org
+tosbtled.org
+tpb.today
+tracker.torrentz.in
+treetorrent.com
+turkmeniancollybavaccinee.xyz
+uatorrent.com
+uloz.to
+ulozto.net
+umtorrent.com
+unblock.al
+unblocked.io
+unblocked.pe
+unblocked.sx
+unblockme.co
+underseaphoto.net
+uploadtorrent.org
+urbantorrent.com
+urtorrents.com
+usotsuki.info
+viking.tamaris.salomon.umbro.umbro.umbro.torrents.de
+vip-soft.info
+vitorrent.co
+vitorrent.org
+vitorrentz.com
+vitorrentz.me
+wapcot.com
+warezu4.info
+weaseltorrents.com
+whadu.com
+wikihow.com
+ww.torrentz.ch
+ww.torrentz.hk
+wxww.torrentz.com
+xmarks.com
+xxx.bootytape.com
+xxxnicesexvipl.eu
+xxxtorrents.org
+xxxtorrents.work
+yify-torrent.org
+yify.space
+yourexotic.com
+yts.news
+yts.to
+ytsmovies.com
+ytsre.eu
+ytsre.net
